@@ -101,7 +101,7 @@
     "@types/node": "^17.0.31",
     "@unocss/preset-icons": "^0.38.1",
     "@unocss/preset-wind": "^0.38.1",
-    "@vitejs/plugin-vue": "^2.3.3",
+    "@vitejs/plugin-vue": "^3.0.1",
     "@vue/compiler-sfc": "^3.2.37",
     "@vueuse/core": "^8.6.0",
     "bumpp": "^7.1.1",
