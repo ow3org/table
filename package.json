@@ -120,7 +120,7 @@
     "unplugin-auto-import": "^0.8.7",
     "unplugin-vue-components": "^0.19.6",
     "upath": "^2.0.1",
-    "vite": "^2.9.10",
+    "vite": "^3.0.2",
     "vitest": "^0.14.1",
     "vue": "^3.2.37",
     "vue-tsc": "^0.37.3"
